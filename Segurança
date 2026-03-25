@@ -1,0 +1,48 @@
+# Política de Segurança e Curadoria
+
+## Escopo
+Este repositório é voltado para preservação histórica e organização técnica de documentos relacionados a kits, reagentes, softwares e materiais de apoio para testes de HLA.
+
+## Diretrizes de segurança
+Para proteger o projeto e seus colaboradores:
+
+- Não envie credenciais, senhas, tokens ou qualquer segredo
+- Não envie dados de pacientes, exames identificáveis ou informações pessoais
+- Não envie conteúdo obtido por acesso indevido
+- Não automatize coleta em áreas restritas sem autorização adequada
+- Não inclua arquivos internos institucionais sem avaliar a possibilidade de redistribuição
+
+## Conteúdo restrito
+Alguns materiais podem existir, mas não serem adequados para redistribuição pública. Nesses casos, prefira contribuir com:
+
+- metadados
+- referência descritiva
+- hash/checksum
+- informação sobre versão
+- indicação de existência do documento
+
+## Reporte de problemas
+Se você identificar:
+- vazamento de informação sensível
+- envio indevido de documento restrito
+- material com risco jurídico evidente
+- credenciais expostas
+
+abra uma Issue com o menor detalhamento sensível possível ou entre em contato com o mantenedor para remoção/revisão.
+
+## Resposta esperada
+Problemas de segurança ou curadoria poderão resultar em:
+- remoção de arquivos
+- ajuste de histórico
+- bloqueio de contribuições inadequadas
+- revisão da política do repositório
+
+## Boas práticas para contribuidores
+- revise o conteúdo antes de enviar
+- remova arquivos temporários
+- confira se não há informações ocultas em PDFs ou planilhas
+- prefira PRs pequenos e bem descritos
+- informe a proveniência do material
+
+## Observação
+Segurança, rastreabilidade e preservação histórica precisam caminhar juntas. Em caso de dúvida, priorize metadados em vez do arquivo completo.
